@@ -1,0 +1,42 @@
+	task2:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. use Harris detector to find key points
+2. use SIFT or other feature descriptor to extract features of these key points
+3. match key points between images and compare their feature distance
+4. after have matched your point pairs --
+	- compute the homography matrix using RANSAC algorithm
+5. use the homography matrix to stitch the images together.
+
+rules:
+~~~~~~
+<you can use other methods too as long as you get this working>
+<numpy and opencv is allowed >
+<EXCEPT stitch api >
+
+
+
+It is recommended to install
+opencv-contrib-python by “pip install opencv-contrib-python”
+
+then use -- 
+cv2.xfeatures2d.SIFT create()
+
+
+has to run under a min.
+
+
+
+
+img_ = orig right
+img  = orig left
+
+img1 = gray right ==> kp1 
+img2 = gray left  ==> kp2
+
+
+right image to turn and shit
+
+
+
+

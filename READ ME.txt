@@ -1,0 +1,16 @@
+Pre Requirements-
+	1. must have python 3 and open cv library for python3 installed.
+	2. must have terminal or cygwin terminal. 
+	3. must have numpy library for python3 installed.
+
+Procedure for running this project-
+
+inside the project folder:
+	1. replace left image with your own. SAVE IT AS "left.jpg". You can use
+		the provided one for testing. 
+	2. replace right image with your own. SAVE IT AS "right.jpg". You can 
+		use the provided one for testing.
+	3. make sure that left and right image has some over lapping. Meaning 
+		some parts of left is in the right and vise versa. (given left 
+		and right images meet this requirement. 
+	4. run on terminal "python3 task2.py"
