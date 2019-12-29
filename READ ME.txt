@@ -1,3 +1,6 @@
+Created by Syed Rehman
+syedrehm@buffalo.edu
+
 Pre Requirements-
 	1. must have python 3 and open cv library for python3 installed.
 	2. must have terminal or cygwin terminal. 
