@@ -14,3 +14,4 @@ inside the project folder:
 		some parts of left is in the right and vise versa. (given left 
 		and right images meet this requirement. 
 	4. run on terminal "python3 task2.py"
+	5. you can find the result in the results folder.
